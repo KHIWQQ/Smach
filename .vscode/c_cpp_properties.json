@@ -1,0 +1,51 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/por/ros_workshop_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/por/ros_workshop_ws/src/freenect_stack/freenect_camera/include/**",
+        "/home/por/ros_workshop_ws/src/kobuki/kobuki_auto_docking/include/**",
+        "/home/por/ros_workshop_ws/src/kobuki/kobuki_bumper2pc/include/**",
+        "/home/por/ros_workshop_ws/src/kobuki/kobuki_controller_tutorial/include/**",
+        "/home/por/ros_workshop_ws/src/kobuki/kobuki_keyop/include/**",
+        "/home/por/ros_workshop_ws/src/kobuki/kobuki_node/include/**",
+        "/home/por/ros_workshop_ws/src/kobuki/kobuki_random_walker/include/**",
+        "/home/por/ros_workshop_ws/src/kobuki/kobuki_safety_controller/include/**",
+        "/home/por/tutorial_ws/src/my_navigation/include/**",
+        "/home/por/ros_workshop_ws/src/my_package/include/**",
+        "/home/por/tutorial_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/por/tutorial_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/por/ros_workshop_ws/src/turtlebot_apps/turtlebot_actions/include/**",
+        "/home/por/tutorial_ws/src/tutorial_gazebo/include/**",
+        "/home/por/ros_workshop_ws/src/yujin_ocs/yocs_ar_marker_tracking/include/**",
+        "/home/por/ros_workshop_ws/src/yujin_ocs/yocs_ar_pair_tracking/include/**",
+        "/home/por/ros_workshop_ws/src/yujin_ocs/yocs_cmd_vel_mux/include/**",
+        "/home/por/ros_workshop_ws/src/yujin_ocs/yocs_controllers/include/**",
+        "/home/por/ros_workshop_ws/src/yujin_ocs/yocs_diff_drive_pose_controller/include/**",
+        "/home/por/ros_workshop_ws/src/yujin_ocs/yocs_keyop/include/**",
+        "/home/por/ros_workshop_ws/src/yujin_ocs/yocs_math_toolkit/include/**",
+        "/home/por/ros_workshop_ws/src/yujin_ocs/yocs_navi_toolkit/include/**",
+        "/home/por/ros_workshop_ws/src/yujin_ocs/yocs_navigator/include/**",
+        "/home/por/ros_workshop_ws/src/yujin_ocs/yocs_safety_controller/include/**",
+        "/home/por/ros_workshop_ws/src/yujin_ocs/yocs_velocity_smoother/include/**",
+        "/home/por/ros_workshop_ws/src/yujin_ocs/yocs_virtual_sensor/include/**",
+        "/home/por/ros_workshop_ws/src/yujin_ocs/yocs_waypoint_provider/include/**",
+        "/home/por/ros_workshop_ws/src/yujin_ocs/yocs_waypoints_navi/include/**",
+        "/home/por/ros_workshop_ws/src/your_package/include/**",
+        "/home/por/ros_workshop_ws/src/your_smach/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
